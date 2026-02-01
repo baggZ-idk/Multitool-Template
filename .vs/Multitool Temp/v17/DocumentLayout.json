@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\PlayFab Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E253E-06ED-4B18-BA83-D1794073020E}|Multitool Temp.csproj|l:\\playfab tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8E253E-06ED-4B18-BA83-D1794073020E}|Multitool Temp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E253E-06ED-4B18-BA83-D1794073020E}|Multitool Temp.csproj|l:\\playfab tool\\build.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CE8E253E-06ED-4B18-BA83-D1794073020E}|Multitool Temp.csproj|solutionrelative:build.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Build.bat",
+              "DocumentMoniker": "L:\\PlayFab Tool\\Build.bat",
+              "RelativeDocumentMoniker": "Build.bat",
+              "ToolTip": "L:\\PlayFab Tool\\Build.bat",
+              "RelativeToolTip": "Build.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGySURBVDhPzZTdK0NxGMe/c4G4MieywuzFbDJvo\u002BaCG3dLyZ1SCqWolbysXeDGrQsvCRFJufEviAvbaOWlbHndpk1bm\u002BOGxF4cP\u002BunnDqHxS586tf5Pef59uk5nXqQVjiOo7f0IbFaRr1ELaf1H5H4Mn4jM7W1Cz6TLqtlhItGo2k5Hy4yoTiBUAQ7tiMEww/0zc8ICp9fXuE4duPGd4fHpye4rzywOU8RZn8WCwpdl16EIyze3hIw6LVIJOK4DQThvwvRhDiCwhqtCvF4HCp5McpKZNAoSkkdQ5VWTRPiiEzoQSwWheviGleeW5y6L0kdw57dSRPiCAqLChkUFTBJye7\u002BIRJk2gImD8b6apoQR1BYyEjRYqyHnnxidlYmdBoFWpub4PX7MWgZx8mZC/csS9N8BIWflBbL0NlhgkZZhrmVdSyubaKyXIWZhSUsr27QFJ9vhV/RqZVJ2UBvN/k5FVCrFbTDJ2Wh\u002B/wCh04npmfnYXcckOOgHT4pC3u6OmHu74ODyMaGzJianKAdPikLmXwpDHW12N7aRGODAbm5ObTDh6yvYbK\u002BJGlaX5yPXv4twDtWh9oGyYbOwgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-01-17T13:35:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "L:\\PlayFab Tool\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "L:\\PlayFab Tool\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:10:21.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
